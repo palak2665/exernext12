@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "applicationId": "io.flutter.plugins.firebaseauth",
+  "applicationId": "io.flutter.plugins.firebase.auth",
   "variantType": "LIBRARY",
   "elements": [
     {
@@ -18,7 +18,7 @@
       },
       "path": "AndroidManifest.xml",
       "properties": {
-        "packageId": "io.flutter.plugins.firebaseauth",
+        "packageId": "io.flutter.plugins.firebase.auth",
         "split": ""
       }
     }
